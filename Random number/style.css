@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#dicelabel{
+    font-size: 3em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#roll{
+    padding: 10px 20px;
+    font-size: 3em;
+    border-radius: 5px;
+    background-color: rgb(187, 125, 244);
+    transition:  background-color 0.25s;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#roll:hover{
+    background-color:rgb(142, 45, 233);
+}
